@@ -68,7 +68,7 @@
 ```
 ## 🚀 Deployed URl
 
-[streamify](https://streamify-cyan.vercel.app/app)
+[streamify](https://streamify-steel-eight.vercel.app/)
 
 ---
 
